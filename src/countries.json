@@ -1,0 +1,26 @@
+[
+  {
+    "Country": "Japan",
+    "Slug": "japan"
+  },
+  {
+    "Country": "South Korea",
+    "Slug": "korea-south"
+  },
+  {
+    "Country": "Austria",
+    "Slug": "austria"
+  },
+  {
+    "Country":"Belgium",
+    "Slug":"belgium"
+  },
+  {
+    "Country":"Bulgaria",
+    "Slug":"bulgaria"
+  },
+  {
+    "Country":"Croatia",
+    "Slug":"croatia"
+  }
+]
